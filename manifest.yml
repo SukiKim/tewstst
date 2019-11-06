@@ -1,0 +1,7 @@
+---
+applications:
+- name: busExample
+  memory: 1024M
+  host: busexample
+  domain: paas-ta.org
+  buildpack: java_buildpack
